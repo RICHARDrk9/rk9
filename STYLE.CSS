@@ -1,0 +1,189 @@
+ @media screen and (max-width:430px) {
+    body{
+        background-color: #fff;
+        color: #000;
+        font-size: 14px;
+        font-family: 'poppins',sans-serif;
+        overflow-x: hidden;
+        margin: 0%;
+        padding: 0px;
+      
+        
+    }
+    .img1{
+        width: 100%;
+        margin: 0%;
+        height: 450px;
+        
+    }
+    #logo{
+       
+        position: absolute;
+        top: 2%;
+        left: -10%;
+        width: 15%;
+        margin-left: 15%;
+        
+    }
+    .iconebare{
+        width: 24px;
+        float: right;
+    }
+    .bare{
+        margin: 2px;
+        height: 4px;
+        background-color: black;
+    }
+    .menu{   
+        top: 2%;
+        left: 5%;     
+        list-style: none;
+       position: absolute;
+        text-align: center;  
+        
+
+    }
+    .menu li .sousmenu li{
+        list-style: none;
+        width: 200px;
+
+    }
+    
+        
+     
+    .menu li a:link, .menu li a:visited {
+        display: block;
+        color: #666666;
+        background-color: #de9733;
+        padding: 6px 10px;
+        border-top: 2px solid #fff;
+        text-align: center;
+        text-decoration: none;
+        width: 200px;
+        overflow: hidden;
+       
+
+        
+    }
+
+    .menu  .sousmenu li a:hover{
+        background-color: aqua;
+       
+    }
+    .menu li a:active{
+        background-color: #808080;
+    }
+    .menu .sousmenu {
+        list-style-type: none;
+        display: none;
+        margin: 0%;
+        padding: 0%;
+        position: absolute;
+    }
+    .menu .sousmenu li{
+        float: none;
+        margin: 0%;
+        padding: 0%;
+        border-top: 1px transparent;
+        border: 1px transparent;
+        width: 320px;
+        background-color: #de9733;
+    }
+    .menu .sousmenu li a:link, .menu .sousmenu li a:active  {
+        display: block;
+
+    }
+    .menu li:hover .sousmenu  {
+        display: block;
+        
+
+  }
+  .titre1{
+    display: block;
+    position: absolute;
+    top: 95px;
+    left: 4%;
+    font-size: 19px;
+    
+    
+  }
+  #line{line-height: 8px;}
+  strong{
+    color: #fff;
+   
+}
+.contact1{
+    background-color: #fff;
+    padding: 16px;
+    border-radius: 20px;
+    border: none;
+}
+.fig1 img{
+    width: 190px;
+    position: absolute;
+    top: 30%;
+    left: 30%;
+}
+.point{
+    width: 17px;
+}
+
+.fg{
+    background-color: #c7a94e;
+    border-radius: 50%;
+    position: absolute;
+    left: 13%;
+    width: 270px;
+    border: 25px solid #de9733;
+}
+.h4a{ color: #ffffff;
+    position: absolute;
+    left: 20%;
+    bottom: 10%;
+}
+.voir{
+    width: 170px;
+    padding: 17px;
+    border-radius: 20px;
+    border: 5px solid #de9733;
+    background-color: #000;
+    color: #fff;
+    font-weight: 500;
+    font-size: 19px;
+    position: absolute;
+    right: 5%;
+}
+.im2{
+    position: absolute;
+    left: 13%;
+}
+.fg2{
+    background-color: #c7a94e;
+    border-radius: 50%;
+    width: 270px;
+    border: 25px solid #de9733;
+    text-align: center;
+}
+.h4b{ color: #fff;
+    position: absolute;
+    left: 21%;
+    bottom: 55%;
+}
+.voir2{
+    width: 170px;
+    padding: 17px;
+    border-radius: 20px;
+    border: 5px solid #de9733;
+    background-color: #000000;
+    color: #fff;
+    font-weight: 500;
+    font-size: 19px;
+    margin-left: 30%;
+    
+}
+  
+  
+    
+    
+ }
+ 
